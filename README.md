@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Engineering
 - 🌱 I’m currently working on  Azure Data Factory
 - 💞️ I’m looking to collaborate on Data Transformation
-- 📫 How to reach me olami.80@gmail.com  
+- 📫 How to reach me olalekanoke2603@gmail.com 
 - 😄 Pronouns: He
 - ⚡ Fun fact: ...
 
