@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Olalekan  
 - 👀 I’m interested in Data Engineering
-- 🌱 I’m currently working on  Azure Data Factory
+- 🌱 I’m currently working on  data transformation, ETL and optimization of data queries
 - 💞️ I’m looking to collaborate on Data Transformation
 - 📫 How to reach me olalekanoke2603@gmail.com 
 - 😄 Pronouns: He
